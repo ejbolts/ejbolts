@@ -1,4 +1,5 @@
 # Hi there, I'm Ethan 👋
+![Profile views](https://komarev.com/ghpvc/?username=ejbolts&color=blue&abbreviated=true)
 
 I am a recent graduate 🎓 in Software Engineering focusing on Full Stack Web Development. I am passionate about coding and continuously learning new technologies. Here's a bit about what I'm currently working on and learning.
 
@@ -24,8 +25,8 @@ Here are a few projects I've worked on recently:
 
 ## 📈 GitHub Stats
 
-![Profile views](https://komarev.com/ghpvc/?username=ejbolts&color=blue&abbreviated=true)
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejbolts&show_icons=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejbolts&layout=compact)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejbolts&show_icons=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejbolts&layout=compact)
+
+
