@@ -1,20 +1,19 @@
 # Hi there, I'm Ethan 👋
 ![Profile views](https://komarev.com/ghpvc/?username=ejbolts&color=blue&abbreviated=true)
 
-I'm a recent graduate 🎓 in Software Engineering focusing on Full Stack Web Development. I'm also passionate about coding and continuously learning new technologies. Here's a bit about what I'm currently working on and learning.
+I'm a recent graduate 🎓 in Software Engineering focusing on Full Stack Development. I'm also passionate about coding and continuously learning new technologies. Here's a bit about what I'm currently working on and learning.
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, TypeScript
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express, MongoDB, SQL
+- **Languages:** TypeScript
+- **Frontend:** React, Tailwind CSS
+- **Backend:** Node.js, MongoDB, SQL
 - **DevOps:** Docker, AWS, GitHub Actions
 
 ## 🚀 What I'm Currently Doing
 
-- 🌱 Learning and improving my skills in TypeScript, React, and Next.js
-- 🔨 Building full stack web applications
-- 🎨 Experimenting with Tailwind CSS for styling
+- 🌱 Learning and improving my skills in .Net, C#
+- 🔨 Building full stack applications
 - 📚 Exploring new tools and frameworks to enhance my development workflow
 
 ## 💡 Projects
