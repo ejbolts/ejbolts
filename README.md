@@ -20,13 +20,12 @@ I'm a recent graduate 🎓 in Software Engineering focusing on Full Stack Develo
 
 Here are a few projects I've worked on recently:
 
-- **AnguChat:** [Text and video streaming chat app](https://github.com/ejbolts/AnguChat)
-
-## 📈 GitHub Stats
-
+- **Vocab-Extension:** [Google Chrome Extension](https://github.com/ejbolts/vocab-extension)
+- **AnguChat:** [Text & Video Streaming Chat App](https://github.com/ejbolts/AnguChat)
 
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejbolts&show_icons=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=79ff97&title_color=ffffff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejbolts&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=79ff97&title_color=ffffff)
+
+
 
 
 
